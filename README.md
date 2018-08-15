@@ -1,2 +1,2 @@
 # movieql
-using graph QL
+using graph QL movie project
