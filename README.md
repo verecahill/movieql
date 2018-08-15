@@ -1,2 +1,4 @@
 # movieql
-using graph QL
+using graph
+
+Edited in the github page
